@@ -75,7 +75,7 @@
     },
     "Kwok2024PerinatalAI": {
         "author": "Kwok, Wai Hang and Zhang, Yuanpeng and Wang, Guanjin",
-        "doi": "10.1016/j.compbiomed.2024.107704",
+        "doi": "10.1016/j.compbiomed.2024.108685",
         "journal": "Computers in Biology and Medicine",
         "keywords": "type:AI Health Monitoring, AI, perinatal mental health, mood disorders, depression",
         "pages": "107704",
